@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShunyaChatStuff</string>
+    <string name="type_your_answer">Type your answer</string>
+    <string name="permission_required_text">Permission Required</string>
+</resources>
